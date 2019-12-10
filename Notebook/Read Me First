@@ -1,1 +1,3 @@
-
+There are two python files, 
+    1. 'load_uvb_data.py': to load the ultraviolet radiation (UVR) data.
+    2. 'map_US_uv': to map the UVR data in the United States.
