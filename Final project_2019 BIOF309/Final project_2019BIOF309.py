@@ -17,7 +17,7 @@ with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-c
     counties = json.load(response) #above two rows were used to load United States' map by each county
 
 import pandas as pd #require 'pandas'
-df = pd.read_csv(r"C:\Users\maiz2\Desktop\Python\uv\July 15 2015.csv", dtype={"countyfips": str})  # read csv file in my own local address, classfy the 'countyfips' as a string variable
+df = pd.read_csv(r"C:\Users\maiz2\Desktop\Python\uv\July_15_2015.csv", dtype={"countyfips": str})  # read csv file in my own local address, classfy the 'countyfips' as a string variable
 
 import plotly.graph_objects as plt #require 'plotly.graph_objects'
 
