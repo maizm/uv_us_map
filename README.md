@@ -30,3 +30,7 @@ Coming soon...
 2. Urllib.request
 3. json
 4. plotly.graph_objects
+
+
+### References
+Plotly Technologies Inc. Title: Collaborative data science Publisher: Plotly Technologies Inc. Place of publication: Montréal, QC Date of publication: 2015 URL: https://plot.ly/python/reference/#choropleth
