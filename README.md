@@ -1,4 +1,5 @@
-# Ultraviolet radiation in the United States
+
+# Ultraviolet radiation :sunny: in the United States :us:
   **Mapping environmental or lifestyle factors based on the county FIPS codes**
       (Any factors with FIPS codes can be mapped using this python project, in addition to ultraviolet radiation)
 
