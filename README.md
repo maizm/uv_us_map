@@ -5,9 +5,9 @@
 
 ## Introduction
 To map the distribution of ultravioletra radiation (UVR) in the United States UVR.
-Inline-style: 
-![alt text](r"https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-   
+Inline-style:
+![alt text](https://github.com/maizm/uv_us_map/blob/master/figure.png "Logo Title Text 1")
+
 ## Modules and functions
   (require 'pandas', 'urllib.request', 'json',  'plotly.graph_objects')
   
